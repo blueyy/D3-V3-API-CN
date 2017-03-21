@@ -1,2 +1,1 @@
-# D3-V3-API-CN
-D3 3.X API中文版
+# Learning-D3-V3
